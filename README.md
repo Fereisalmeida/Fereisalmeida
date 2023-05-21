@@ -7,6 +7,7 @@
 
 ![Felipe GitHub stats](https://github-readme-stats.vercel.app/api?username=Fereisalmeida&show_icons=true&theme=dracula)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fereisalmeida)](https://github.com/Fereisalmeida/github-readme-stats)
 
 ## Tecnologias que eu uso no meu dia
 
