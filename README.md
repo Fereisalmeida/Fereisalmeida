@@ -18,6 +18,6 @@
 </div></br>
 
 
-Futuro programador. A procura de minha primeira oportunidade !!
+Futuro programador. A procura de uma oportunidade para mostrar meu potencial!!
 
 ### Email: reisalmeida27@gmail.com
